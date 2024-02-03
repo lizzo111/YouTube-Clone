@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Barlow:wght@500;700;900&family=Josefin+Sans:wght@300&family=Roboto:wght@400;500;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding-top: 80px;
+  margin: 0;
+  padding-left: 96px;
+  padding-right: 24px;
+  background-color: rgb(248, 245, 245);
+}
+
+p {
+  margin: 0;
+  margin-bottom: 0;
+}
